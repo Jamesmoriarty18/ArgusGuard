@@ -1,0 +1,6 @@
+{
+  "name": "Argus Guard",
+  "description": "Telegram group moderation bot with dashboard and Telegram Stars subscriptions",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
